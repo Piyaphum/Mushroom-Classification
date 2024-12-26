@@ -1,5 +1,5 @@
 # Mushroom-Classification
-เพื่อการจำแนกเห็ดสายชนิดต่าง ๆ ว่าสามารถกินได้หรือมีพิษ โดยใช้ Decision Tree, Random Forest และ Support Vector Machine
+เพื่อการจำแนกเห็ดสายชนิดต่าง ๆ ว่าสามารถกินได้หรือมีพิษ โดยใช้ Decision Tree, Random Forest และ Support Vector Machine โปรเจคนี้คือหนึ่งในโปรเจคของรายวิชา Machine Learning
 
 # Detail for the Dataset
 cap-shape: bell=b,conical=c,convex=x,flat=f, knobbed=k,sunken=s
